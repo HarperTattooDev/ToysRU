@@ -3,7 +3,7 @@
  <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)-->
 
 <h2>Description</h2>
-Practice Project consists of Some HTML Basics (links, lists, heading, email) . Creating a home page for a business.
+Mimo guided Practice Project consists of Some HTML Basics (links, lists, heading, email) . Creating a home page for a business.
 
 <br />
 
